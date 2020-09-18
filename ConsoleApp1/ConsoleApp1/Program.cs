@@ -9,6 +9,7 @@ namespace ConsoleApp1
             int a = 10;
             int b = 5;
             int c = 6;
+            int d = 7;
             Console.WriteLine("Hello World!");
         }
     }
