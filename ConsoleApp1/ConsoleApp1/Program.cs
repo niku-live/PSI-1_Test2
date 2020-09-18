@@ -11,6 +11,7 @@ namespace ConsoleApp1
             int c = 6;
             int d = 7;
             int f = 1;
+            int g = 2;
             Console.WriteLine("Hello World!");
         }
     }
