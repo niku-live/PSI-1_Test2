@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class Class1
     {
+        int i;
     }
 }
